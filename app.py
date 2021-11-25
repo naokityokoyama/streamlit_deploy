@@ -1,3 +1,9 @@
 import streamlit as st
 
-st.title('Streamlit')
+def main():
+    st.title('Streamlit')
+    st.subheader('welcome')
+
+
+if __name__ =='__main__':
+    main()   
